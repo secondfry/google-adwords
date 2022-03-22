@@ -1,3 +1,5 @@
+Do not use this.
+
 # google-adwords
 
 [![NPM](https://nodei.co/npm/google-adwords.png?downloads=true)](https://nodei.co/npm/google-adwords/)
